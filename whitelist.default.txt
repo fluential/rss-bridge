@@ -3,4 +3,4 @@ Soundcloud
 Twitter
 Wikipedia
 Youtube
-rss-bridge/FeedMerger
+FeedMergeBridge
