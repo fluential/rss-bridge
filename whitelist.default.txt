@@ -3,3 +3,4 @@ Soundcloud
 Twitter
 Wikipedia
 Youtube
+FeedMerger
